@@ -1,0 +1,40 @@
+@font-face {
+  font-family: icomoon;
+  src: url('/Fonts/icomoon.woff');
+}
+
+@font-face {
+  font-family: FGSemibold;
+  src: url("/Fonts/FoundersGrotesk-Semibold.woff");
+}
+
+@font-face {
+  font-family: FGSemibold2;
+  src: url("/FoundersGrotesk-Semibold.woff2");
+}
+
+@font-face {
+  font-family: NMRegular;
+  src: url("/Fonts/NeueMontreal-Regular.woff");
+}
+
+@font-face {
+  font-family: NMRegular2;
+  src: url("/Fonts/NeueMontreal-Regular.woff2");
+}
+
+
+@keyframes marquee {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.marquee-container {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.marquee-content {
+  display: inline-flex;
+  animation: marquee 10s linear infinite;
+}
