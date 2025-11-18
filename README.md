@@ -30,5 +30,26 @@ A custom interactive “eye-tracking” component where both eyes follow the use
 
 ---
 
-## Project Structure
+## Tech Stack
 
+- **React.js**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **Custom math-based animations (atan2, rotation, event listeners)**
+
+---
+
+
+## Purpose of This Project
+
+This project demonstrates skills in:
+
+- Interactive UI design
+
+- React component architecture
+
+- Event-driven animations
+
+- Responsive layout development
+
+- Modern CSS & Tailwind workflows
