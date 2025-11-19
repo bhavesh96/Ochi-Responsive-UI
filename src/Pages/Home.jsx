@@ -1,7 +1,7 @@
 import React from 'react'
 import { Navbar } from '../componets/Navbar'
 import { HeroSection } from "./HomeComponets/HeroSection";
-import Marquee from './HomeComponets/marquee';
+import Marquee from './HomeComponets/Marquee';
 import { EyeVideo } from './HomeComponets/EyeVideo';
 
 export const Home = () => {

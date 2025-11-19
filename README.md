@@ -53,3 +53,9 @@ This project demonstrates skills in:
 - Responsive layout development
 
 - Modern CSS & Tailwind workflows
+
+
+## Credit
+
+This project is for educational and portfolio purposes only.
+All design inspiration and assets are credited to Ochi.
